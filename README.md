@@ -9,11 +9,11 @@ Sebuah bank di Portugal ingin meningkatkan jumlah nasabah yang mendaftar (subscr
 Tim marketing perlu memilih target nasabah yang tepat untuk dihubungi sehingga dapat menurunkan cost marketing. Melalui analytical approach dan data science, kami ingin meningkatkan jumlah nasabah yang akan mendaftar untuk deposito. Melalui model machine learning, akan diseleksi nasabah yang berpotensi untuk mendaftar ke deposito.
 
 # Goals
-Meningkatkan conversion rate nasabah yang diberikan campaign untuk mendaftar ke deposito
-Menurunkan marketing cost
+1. Meningkatkan conversion rate
+2. Menurunkan marketing cost
 # Objectives
-Memprediksi nasabah yang akan mendaftar ke deposito dengan algoritma klasifikasi
-Memberikan insight dan business recommendation yang dapat mengoptimalkan strategi marketing
+1. Memprediksi nasabah yang akan mendaftar ke deposito dengan algoritma klasifikasi
+2. Memberikan insight dan business recommendation yang dapat mengoptimalkan strategi marketing
 
 # Business Metrics
 1. Conversion Rate
